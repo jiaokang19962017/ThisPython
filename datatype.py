@@ -6,6 +6,6 @@ print(miles)
 print(name)
 
 # 多个变量赋值
-a=b=c=1
-a,b,c=1,2,"jiaokang"
-print(a,b,c)
+a = b = c = 1
+a, b, c = 1, 2, "jiaokang"
+print(a, b, c)
