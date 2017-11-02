@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "python.formatting.provider": "yapf",
+    "python.linting.flake8Enabled": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "emmet.showExpandedAbbreviation": "always",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
